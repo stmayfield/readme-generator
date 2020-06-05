@@ -113,6 +113,9 @@ function generateMarkdown(data) {
 
 [https://github.com/${data.questions}](https://github.com/${data.questions})
 
+- - -
+
+- Stephen Mayfield, 2020
 
   `;
 }
